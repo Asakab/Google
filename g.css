@@ -30,4 +30,14 @@ width: 100%;
 position: absolute;
 height: 50px;
 padding-top: 50px;
+
+}
+#right
+{
+	margin: 0px;
+	display: flex;
+	justify-content: flex-end;
+	font-family: arial,sans-serif;
+	font-size: 15px;
+	color: grey;
 }
