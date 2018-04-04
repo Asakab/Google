@@ -13,3 +13,21 @@ a
 #google_image {
 	margin-top: 200px;
 }
+
+input#search_box
+{
+	width: 500px;
+	height: 40px;
+	-webkit-box-shadow : 0px 2px 1px #ccc;
+	box-shadow: 0px 2px 1px grey;
+	transition: box-shadow 0.25s ease-in-out;
+}
+footer
+{
+	background-color: #F2F2F2;
+bottom: 50px;
+width: 100%;
+position: absolute;
+height: 50px;
+padding-top: 50px;
+}
