@@ -1,0 +1,12 @@
+#head {
+	margin: 10px;
+	display: flex;
+	justify-content: flex-end;
+	font-family: arial,sans-serif;
+	font-size: 13px;
+
+}
+a
+{
+  text-decoration-line: none;
+}
